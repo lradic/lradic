@@ -1,4 +1,4 @@
-## Hello. I am @lradic. Welcome to my GitHub profile.
+## Hello. I am lradic. Welcome to my GitHub profile.
 
 <!---
 lradic/lradic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
